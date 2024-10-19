@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali+El+Ajami!;" />
 </h1>
@@ -7,9 +5,9 @@
 <h3 align="center">Software Developer with a drive for success</h3>
 <image align="right" alt="Coding" width=400 src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🔭 I’m currently working on **building my personal web page portfolio**
+- 🔭 I’m currently working on **building an AI-Powered Screening System**
 
-- 🌱 I’m currently learning **advanced front-end development techniques, including CSS animations and responsive design principles. Additionally, I'm exploring back-end development with Node.js and MongoDB to broaden my full-stack development skills. I'm also delving deeper into data visualization libraries like D3.js to enhance my ability to create interactive and informative visualizations. Continuous learning is essential to me, and I'm excited to expand my knowledge and expertise in these areas.**
+- 🌱 I’m currently learning **advanced front-end development techniques, including CSS animations and responsive design principles. Additionally, I'm exploring back-end development with Node.js and MongoDB to broaden my full-stack development skills. Continuous learning is essential to me, and I'm excited to expand my knowledge and expertise in these areas.**
 
 - 👯 I’m looking to collaborate on **I’m currently working on building my personal web page portfolio using HTML, CSS, and JavaScript. The portfolio will serve as a platform to showcase my projects, skills, and experience in software development and design. I aim to create an interactive and visually appealing website that effectively highlights my work and accomplishments. Stay tuned for updates as I continue to develop and refine my portfolio!**
 
