@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">Software Developer with a drive for success</h3>
-<image align="right" alt="Coding" width=400 src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
 
 - 🔭 I’m currently working on **building an AI-Powered Screening System**
 
@@ -11,9 +11,19 @@
 
 - 👯 I’m looking to collaborate on **I’m currently working on building my personal web page portfolio using HTML, CSS, and JavaScript. The portfolio will serve as a platform to showcase my projects, skills, and experience in software development and design. I aim to create an interactive and visually appealing website that effectively highlights my work and accomplishments. Stay tuned for updates as I continue to develop and refine my portfolio!**
 
-- 📫 How to reach me **alielajami@outlook.com**
-
 - ⚡ Fun fact **consol.log('I Think I Am Funny');**
+
+<div align="center"> 
+  <a href="mailto:alielajami20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/ali-el-ajami" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://https://github.com/alielajami" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
