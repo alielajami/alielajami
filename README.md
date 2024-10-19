@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ali El Ajami</h1>
-<h3 align="center">Software Engineer | Coding Enthusiast</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali+El+Ajami!;" />
+</h1>
+
+<h3 align="center">Software Developer with a drive for success</h3>
 <image align="right" alt="Coding" width=400 src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🔭 I’m currently working on **building my personal web page portfolio**
