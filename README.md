@@ -30,14 +30,20 @@
 <p align="left">
 </p>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack: ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,java,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
 <hr/>
 
+### My stats ⭐
+
+<div align="center">
+<img alt="Ali's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alielajami&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alielajami&layout=compact&&langs_count=8"/>
+</div>
 
